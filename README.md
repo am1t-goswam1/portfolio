@@ -24,7 +24,7 @@ To publish this portfolio to GitHub Pages so anyone can see it, follow these ste
     git add .
     git commit -m "Initial commit of portfolio website"
     git branch -M main
-    git remote add origin https://github.com/amit-g0swami/YOUR_REPO_NAME.git
+    git remote add origin https://github.com/am1t-goswam1/portfolio.git
     git push -u origin main
     ```
 
@@ -37,7 +37,7 @@ To publish this portfolio to GitHub Pages so anyone can see it, follow these ste
 
 4.  **Wait for Deployment**
     - The GitHub Action defined in `.github/workflows/deploy.yml` will automatically run.
-    - Once finished, your site will be live at `https://amit-g0swami.github.io/YOUR_REPO_NAME`.
+    - Once finished, your site will be live at `https://am1t-goswam1.github.io/portfolio`.
 
 ## Local Development
 
@@ -48,4 +48,5 @@ npm run dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
 # portfolio
