@@ -57,7 +57,7 @@ export default function Home() {
               Senior Frontend Developer
             </h2>
             <p className="text-lg text-gray-600 dark:text-gray-300 leading-relaxed max-w-2xl">
-              Senior Frontend Developer with 3.4+ years of experience building
+              Senior Frontend Developer with 4+ years of experience building
               scalable, high-performance web applications using React.js,
               Next.js, TypeScript, and Tailwind CSS. Strong expertise in
               dashboard development, reusable component libraries, state
